@@ -23,7 +23,7 @@
     }
     else
     {
-       echo "clase o metodo no existe";
+       echo "Clase o metodo no existe";
     }
 
 ?>
