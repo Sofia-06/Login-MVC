@@ -13,7 +13,7 @@
     else
     {
         $class="Home";
-        $method="Inicioo";
+        $method="Inicio";
     }
 
     if (class_exists($class) && method_exists($class, $method))
@@ -23,7 +23,7 @@
     }
     else
     {
-       echo "Clase o metodo no existe";
+       echo "Clase o metodo no existe.";
     }
 
 ?>
